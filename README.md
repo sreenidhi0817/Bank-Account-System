@@ -1,2 +1,9 @@
 # Bank-Account-System
-A simple C++ bank account management system built for a class project. This program supports basic banking operations such as creating accounts, depositing and withdrawing funds, viewing balances, and tracking transaction history. Designed using object-oriented principles to simulate real-world banking logic in a console-based environment.
+
+This is a simple console-based Bank Account Management System built using C++. It simulates basic banking operations and is designed with object-oriented programming principles.
+
+## Features
+- Create a new account
+- Deposit and withdraw funds
+- View account balance
+- Display account details
